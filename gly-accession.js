@@ -1,5 +1,5 @@
 import {LitElement, html} from 'lit-element';
-import 'gtc-wc-image/gtc-wc-image.js';
+// import 'gtc-wc-image/gtc-wc-image.js';
 
 class GlyAccession extends LitElement {
   static get properties() {
